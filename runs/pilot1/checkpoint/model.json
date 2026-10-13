@@ -1,0 +1,6 @@
+{
+  "base": "LiquidAI/LFM2.5-1.2B-Instruct",
+  "max_length": 1536,
+  "lora_rank": 8,
+  "method": "independent_candidate_lora_nll_brier (jev port)"
+}

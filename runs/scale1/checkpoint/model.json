@@ -1,0 +1,6 @@
+{
+  "base": "/root/jev-lfm/model/base",
+  "max_length": 1536,
+  "lora_rank": 8,
+  "method": "independent_candidate_lora_nll_brier (jev port)"
+}
